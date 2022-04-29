@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585833123 source:e:\cppprojects\matries\lu_algorithm\main.cpp
+	<iostream>
+	<stdio.h>
+	<pmmintrin.h>
+	<xmmintrin.h>
+	<windows.h>
+	<time.h>
+
